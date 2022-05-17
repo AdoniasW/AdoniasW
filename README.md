@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on javascript, flutter , and React
 - 📫 How to reach me: adoniaswondwosen123@gmail.com
 -->
-[[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AdoniasW)](https://git.io/streak-stats)
+[[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AdoniasW&theme=dark)](https://git.io/streak-stats)
 
 
 
