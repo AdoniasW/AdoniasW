@@ -15,9 +15,3 @@ Here are some ideas to get you started:
 
 <a href="https://app.daily.dev/LucxkyX9"><img src="https://api.daily.dev/devcards/b219be3e8f804bdea5155d933b04e985.png?r=dn9" width="400" alt="Adonias Wondwosen's Dev Card"/></a>
 
-
-<iframe style="border: none;" src="https://cards.producthunt.com/cards/posts/346331?v=1" width="500" height="405" frameborder="0" scrolling="no" allowfullscreen></iframe>
-
-
-
-
